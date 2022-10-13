@@ -16,7 +16,7 @@ Use split() method to split the file content into words.
 ### Step 5: 
 Use len() to find the total words.
 ### Step 6: 
-Run the program to determine the number of words in the file created.
+Run the program to determine the number of words in the file.
 ## PROGRAM:
 ```python
 Program to sort the elements in the list using the Selection Sort algorithm.
